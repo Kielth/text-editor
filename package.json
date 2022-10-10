@@ -1,11 +1,11 @@
 {
-  "name": "JATE",
+  "name": "text-editor",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "",
+    "start": "node server.js",
     "server": "",
     "build": "",
     "install": "",
